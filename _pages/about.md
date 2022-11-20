@@ -23,7 +23,7 @@ EDUCATION
 
 Work Experience
 ======
-- [b]ソラミツ SORAMITSU[/b]
+- **[ソラミツ SORAMITSU](https://soramitsu.co.jp/)**
 1 yr 5 mos
 - - Cybersecurity Analyst & DevSecOps (May 2022 - Oct 2022):
 - - — Develop new products and iterate on features
