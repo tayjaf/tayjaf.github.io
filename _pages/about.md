@@ -13,16 +13,18 @@ My name is Tayyab Jafar, you can call me Tay.
 
 I am a former Astrophysics student, attended Queen's University, and am now currently attending Sheridan College for my Honours Bachelor of Information Sciences (Cyber Security).
 
-CV
-======
 
 EDUCATION
 ======
+------
+
 - Astrophysics – Bachelor of Science (Honours) - Queen's University (2013-2017)
 - Cyber Security – Bachelor of Information Sciences (Honours) - Sheridan College (2020-2023) 
 
 WORK EXPERIENCE
 ======
+------
+
 **[ソラミツ SORAMITSU](https://soramitsu.co.jp/) – 1 yr 5 mos**
 - _**Cybersecurity Analyst & DevSecOps**_ (May 2022 - Oct 2022):
 - - Develop new products and iterate on features
@@ -51,6 +53,7 @@ WORK EXPERIENCE
 
 PROJECTS
 ======
+------
 
 
 
