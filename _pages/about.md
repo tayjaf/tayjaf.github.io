@@ -43,7 +43,7 @@ WORK EXPERIENCE
 
 
 **[Trillium Health Partners](https://thp.ca/) - 3 mos**
-- _OneTHP Support Hospital Information Systems_ (Aug 2020 - Oct 2020):
+- _**OneTHP Support Hospital Information Systems**_ (Aug 2020 - Oct 2020):
 - - Worked in database management to facilitate and support transfer from Meditech to Epic electronic health recording software.
 - - Provided training and assistance to colleagues working in manual transfer positions who lacked technical prowess to complete tasks.
 - - Remote assisted and used a variety of support tools to complete merging requests from healthcare records.
