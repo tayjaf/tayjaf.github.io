@@ -6,7 +6,7 @@ collection: projects
 
 <img src='/images/sora.jpg'>
 
-**Various projects created for SORAMITSU - SORA project:**
+**Various projects created while employed for [SORAMITSU](https://soramitsu.co.jp/) - [SORA](https://sora.org/) project:**
 
 
 **[SORA Python Swap Bot](https://github.com/tayjaf/Portfolio/tree/main/2022/SORA/sora-python-swap-bot)**
