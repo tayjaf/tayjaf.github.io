@@ -26,12 +26,12 @@ Work Experience
 - ソラミツ SORAMITSU
 1 yr 5 mos
 - - Cybersecurity Analyst & DevSecOps (May 2022 - Oct 2022):
-- - - — Develop new products and iterate on features
-- - - — Perform smart contracts security and logic audit
-- - - — Review smart contracts of decentralized applications, present and test vulnerabilities
-- - - — Identify, report, and advise on mitigation of security risks associated with crypto, web 3 and blockchain assets
-- - - — Automation of all aspects of open-source software development lifecycle
-- - - — Assistance to deployment from small scale projects to blockchain infrastructure
+- - — Develop new products and iterate on features
+- - — Perform smart contracts security and logic audit
+- - — Review smart contracts of decentralized applications, present and test vulnerabilities
+- - — Identify, report, and advise on mitigation of security risks associated with crypto, web 3 and blockchain assets
+- - — Automation of all aspects of open-source software development lifecycle
+- - — Assistance to deployment from small scale projects to blockchain infrastructure
 
 
 
