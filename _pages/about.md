@@ -24,14 +24,14 @@ EDUCATION
 WORK EXPERIENCE
 ======
 **[ソラミツ SORAMITSU](https://soramitsu.co.jp/) – 1 yr 5 mos**
-- _Cybersecurity Analyst & DevSecOps_ (May 2022 - Oct 2022):
+- _**Cybersecurity Analyst & DevSecOps**_ (May 2022 - Oct 2022):
 - - Develop new products and iterate on features
 - - Perform smart contracts security and logic audit
 - - Review smart contracts of decentralized applications, present and test vulnerabilities
 - - Identify, report, and advise on mitigation of security risks associated with crypto, web 3 and blockchain assets
 - - Automation of all aspects of open-source software development lifecycle
 - - Assistance to deployment from small scale projects to blockchain infrastructure
-- _Technical Community Manager_ (Jun 2021 - May 2022):
+- _**Technical Community Manager**_ (Jun 2021 - May 2022):
 - - Supporting users by responding to questions and concerns in official communities as quick as possible to ensure clients’ needs and issues are met and dealt with rapidly
 - - Researching, diagnosing, and identifying solutions to resolve technical issues and troubleshoot new problems and report to development team to ensure patches are pushed out as soon as possible
 - - Working with query commands in command line and utilizing tools for blockchain analysis
