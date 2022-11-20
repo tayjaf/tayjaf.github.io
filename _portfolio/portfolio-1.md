@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Physics Gravitational Assist - 2014"
+excerpt: "PHYS104/6 LAB<br/><img src='/images/ss2014.png'>"
 collection: portfolio
 ---
 
