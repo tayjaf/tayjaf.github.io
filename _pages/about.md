@@ -15,6 +15,7 @@ I am a former Astrophysics student, attended Queen's University, and am now curr
 
 CV
 ======
+
 EDUCATION
 ======
 - Astrophysics – Bachelor of Science (Honours) - Queen's University (2013-2017)
