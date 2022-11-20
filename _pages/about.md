@@ -14,7 +14,6 @@ My name is Tayyab Jafar, you can call me Tay.
 I am a former Astrophysics student, attended Queen's University, and am now currently attending Sheridan College for my Honours Bachelor of Information Sciences (Cyber Security).
 
 Read on below to see a summary of my work experience, and check out the projects I've made [here](/portfolio.html/)
-------
 
 
 EDUCATION
