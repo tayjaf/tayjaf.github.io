@@ -14,8 +14,7 @@ How does it work? The goal is to facilitate public address sharing and sending t
 
 After creating and connecting your wallet directly on FNS, you will be able to search for the domain of your choice. Mint it and share it with your friends!
 
-https://ethglobal.com/showcase/fuel-names-uigxd
-
+[ETHGlobal - Fuel Names](https://ethglobal.com/showcase/fuel-names-uigxd)
 
 [Go Back](/projects/)
 
