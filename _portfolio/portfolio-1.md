@@ -1,6 +1,6 @@
 ---
 title: "Physics Gravitational Assist - 2014"
-excerpt: "PHYS104/6 LAB<br/><img src='/images/ss2014.png'>"
+excerpt: "PHYS104/6 LAB<br/><img src='/images/ss2014.PNG'>"
 collection: portfolio
 ---
 
