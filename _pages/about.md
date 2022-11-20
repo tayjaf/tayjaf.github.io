@@ -23,7 +23,7 @@ EDUCATION
 
 WORK EXPERIENCE
 ======
-- **[ソラミツ SORAMITSU](https://soramitsu.co.jp/) – 1 yr 5 mos**
+**[ソラミツ SORAMITSU](https://soramitsu.co.jp/) – 1 yr 5 mos**
 - _Cybersecurity Analyst & DevSecOps_ (May 2022 - Oct 2022):
 - - Develop new products and iterate on features
 - - Perform smart contracts security and logic audit
@@ -40,7 +40,9 @@ WORK EXPERIENCE
 - - Building with external projects in the industry, developing and maintaining business relationships
 - - Assisting in hiring procedures and onboarding new employees into technical support roles
 
-- **[Trillium Health Partners](https://thp.ca/) - 3 mos**
+
+
+**[Trillium Health Partners](https://thp.ca/) - 3 mos**
 - _OneTHP Support Hospital Information Systems_ (Aug 2020 - Oct 2020):
 - - Worked in database management to facilitate and support transfer from Meditech to Epic electronic health recording software.
 - - Provided training and assistance to colleagues working in manual transfer positions who lacked technical prowess to complete tasks.
