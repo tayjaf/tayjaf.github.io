@@ -178,6 +178,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  blog:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -209,6 +212,10 @@ defaults:
       author_profile: true
       share: false
       comment: true
+  # _blog
+  - scope:
+      path: ""
+      type: blog
 
 # Sass/SCSS
 sass:
