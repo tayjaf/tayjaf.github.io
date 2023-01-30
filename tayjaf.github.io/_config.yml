@@ -180,7 +180,7 @@ collections:
     permalink: /:collection/:path/
   blog:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:path/
 
 
 # Defaults
